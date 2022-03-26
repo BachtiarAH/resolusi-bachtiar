@@ -6,3 +6,5 @@ javascript
 c#
 python
 github
+SQL
+Linux
